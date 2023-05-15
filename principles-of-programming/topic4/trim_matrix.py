@@ -23,7 +23,8 @@ def trim_matrix(M):
 
 M = [[1,2,3], [12,13],[21,22,23,24]]
 
-print(trim_matrix(M))
+trim_matrix(M)
+print(M)
    
          
 
